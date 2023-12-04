@@ -1,0 +1,17 @@
+# Folder
+/Task_1/data/
+/Task_3_Mid-Term/data/
+
+# DS_Store
+.DS_Store
+
+# zip
+.tar.gz
+
+# Thumbnails
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.bzip
